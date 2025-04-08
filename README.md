@@ -1,4 +1,3 @@
-<img src="5030332_a141a19013_c.jpg" alt="Dez profile picture" width="150" style="border-radius:50">
 <h1>👋 Hi, I’m DezGreer</h1>
   <p> I am a Human Systems Engineering student| Ux Design Enthusiast| Future Tech Founder</p>
   <h2> About me</h2>
